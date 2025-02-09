@@ -1,0 +1,14 @@
+---
+title: "altered states"
+author: "elekktronaut"
+custom-field: "bileam tschepe"
+date: "2025-02-09"
+categories: [touchdesigner]
+image: "altered-states.jpg"
+---
+
+{{< video https://youtu.be/-nQoPNNN6_E >}}
+<br>
+Music: [elekktronaut](https://www.patreon.com/c/elekktronaut) (bileam tschepe)\
+Visuals: [elekktronaut](https://www.patreon.com/c/elekktronaut)\
+Date (YouTube): 5 February 2024

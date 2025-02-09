@@ -1,0 +1,10 @@
+---
+title: "aleph 2"
+author: "max cooper"
+date: "2024-07-04"
+custom-field: "martin krzywinski"
+categories: [text, ascii]
+image: "aleph2.jpg"
+---
+
+{{< video https://youtu.be/tNYfqklRehM >}}

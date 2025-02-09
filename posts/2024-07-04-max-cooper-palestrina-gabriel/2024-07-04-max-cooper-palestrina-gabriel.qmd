@@ -1,0 +1,10 @@
+---
+title: "palestrina gabriel"
+author: "max cooper"
+date: "2024-07-04"
+custom-field: "uisato"
+categories: [masking, renaissance]
+image: "palestrina.jpg"
+---
+
+{{< video https://youtu.be/cI7RClc1qYg >}}

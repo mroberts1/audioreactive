@@ -1,0 +1,10 @@
+---
+title: "stargazer"
+author: "hiatu"
+date: "2024-07-05"
+custom-field: "hiatu"
+categories: [fractal, recursive]
+image: "stargazer.jpg"
+---
+
+{{< video https://youtu.be/UjPD2ozRyrQ >}}

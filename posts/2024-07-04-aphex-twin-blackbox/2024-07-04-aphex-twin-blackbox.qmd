@@ -1,0 +1,10 @@
+---
+title: "blackbox life recorder 22"
+author: "aphex twin"
+date: "2024-07-04"
+custom-field: "unknown"
+categories: [architecture, menger-sponge]
+image: "blackbox.jpg"
+---
+
+{{< video https://youtu.be/QNLpJ7di6Rs >}}

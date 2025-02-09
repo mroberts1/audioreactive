@@ -1,0 +1,17 @@
+---
+title: "overcome"
+author: "guli silberstein"
+custom-field: "guli silberstein"
+date: "2025-01-02"
+categories: [algorithmic]
+image: "overcome.png"
+---
+
+{{< video https://vimeo.com/998879513/ffb4b64366 >}}
+
+<br>
+Winner of the Wroclaw mayor award at Kinomural festival, Poland, October 19-20 2024
+
+Visuals: [Guli Silberstein](https://www.guli-silberstein.com)  
+Music: [ORYMA](https://oryma.bandcamp.com), "[Karthago](https://soundcloud.com/oryma/oryma-karthago-original-mix-1)" (2023)
+

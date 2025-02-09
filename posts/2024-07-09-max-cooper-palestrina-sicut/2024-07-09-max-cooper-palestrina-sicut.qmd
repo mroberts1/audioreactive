@@ -1,0 +1,14 @@
+---
+title: "palestrina sicut | fighters"
+author: "max cooper"
+custom-field: "quayola"
+date: "2024-07-09"
+categories: [renaissance, sculpture]
+image: "palestrina-sicut.jpg"
+---
+
+{{< video https://youtu.be/fVga1ay2DZk >}}
+
+Music: Max Cooper  
+Source: Palestrina, [*Sicut Cervus*](https://en.wikipedia.org/wiki/Sicut_cervus_(Palestrina)) (1604)  
+Visuals, sculpture: Quayola, "[Fighters](https://quayola.com/works/fighters)"  

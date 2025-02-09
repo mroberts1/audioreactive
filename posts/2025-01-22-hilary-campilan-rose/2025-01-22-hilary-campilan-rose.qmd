@@ -1,0 +1,13 @@
+---
+title: "the rose music video"
+author: "michaela betts"
+custom-field: "hilary campilan"
+date: "2025-01-22"
+categories: [warpfusion]
+image: "rose.jpg"
+---
+
+{{< video https://youtu.be/oZgkqtXLpy8 >}}
+
+Music: Michaela Betts  
+Visuals: [Hilary Campilan](https://hilarycampilan.com/)

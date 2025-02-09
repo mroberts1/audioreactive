@@ -1,0 +1,10 @@
+---
+title: "everything"
+author: "max cooper"
+date: "2024-07-04"
+custom-field: "nick cobby"
+categories: [face, collage]
+image: "everything.jpg"
+---
+
+{{< video https://youtu.be/GvwayRd9gbw >}}

@@ -1,0 +1,10 @@
+---
+title: "transcendental tree map"
+author: "max cooper"
+date: "2024-07-04"
+custom-field: "martin krzywinski & nick cobby"
+categories: [complexity, recursive]
+image: "transcendental-tree-map.jpg"
+---
+
+{{< video https://youtu.be/O7bKq03bAsg >}}

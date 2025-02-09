@@ -1,0 +1,12 @@
+---
+title: "sierpinski carpet / menger sponge"
+author: "susumu"
+custom-field: "susumu"
+date: "2024-07-14"
+categories: [sierpinski-carpet, menger-sponge]
+image: "sierpinski-carpet.jpg"
+---
+
+{{< video https://youtu.be/D9LfNPQyzlY >}}
+
+ 

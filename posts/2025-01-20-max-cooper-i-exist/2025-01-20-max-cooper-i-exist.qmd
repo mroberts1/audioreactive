@@ -1,0 +1,13 @@
+---
+title: "i exist inside this machine"
+author: "max cooper/aneek thapar"
+custom-field: "henning m. lederer"
+date: "2025-01-20"
+categories: [text, machine]
+image: "i-exist.jpg"
+---
+
+{{< video https://youtu.be/4aNrOSp7KLg >}}
+
+Music: Max Cooper & Aneek Thapar  
+Visuals: Henning M. Lederer

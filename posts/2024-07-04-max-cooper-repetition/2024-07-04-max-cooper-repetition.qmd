@@ -1,0 +1,10 @@
+---
+title: "repetition"
+author: "max cooper"
+date: "2024-07-04"
+custom-field: "kevin mcglouchlin"
+categories: [complexity, recursive]
+image: "repetition.jpg"
+---
+
+{{< video https://youtu.be/nO9aot9RgQc >}}

@@ -1,0 +1,37 @@
+---
+title: "    "
+#subtitle: "algorithmic visual music"
+page-layout: full
+listing:
+  id: sample-listings
+  contents: posts
+  sort: "date desc"
+  date-format: short
+  type: grid
+  grid-columns: 4
+  field-links: [image, title, author, custom-field]
+  fields: [image, title, author, custom-field, date]
+  field-display-names:
+    author: "music"
+    title: "title"
+    custom-field: "visuals"
+    date: "post"
+    categories: "categories"
+  image-align: left
+  categories: false
+  sort-ui: true
+  filter-ui: true
+table-hover: false
+image-lazy-loading: false
+title-block-banner: false
+---
+
+<h6>audioreactive</h6>
+
+### algorithmic visual music
+
+<br>
+
+::: {#sample-listings}
+:::
+

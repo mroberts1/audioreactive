@@ -1,0 +1,10 @@
+---
+title: "heavy water"
+author: "formalprocess"
+date: "2024-07-06"
+custom-field: "formalprocess"
+categories: [kaleidoscopic, visualizer]
+image: "heavy-water.jpg"
+---
+
+{{< video https://youtu.be/PX6_xwA-aF0 >}}
