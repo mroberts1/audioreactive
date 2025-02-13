@@ -15,10 +15,10 @@ website:
         href: https://twitter.com
 format:
   html:
-    #backgroundcolor: "#EFEDE5"
+    backgroundcolor: "#EFEDE5"
     theme: 
-      light: [quartz, ember.scss]
-      dark: [vapor, ember.scss]
+      light: [litera, ember.scss]
+      dark: [quartz, ember.scss]
     css: custom.scss
 linestretch: 1.2
 fontsize: 0.9em

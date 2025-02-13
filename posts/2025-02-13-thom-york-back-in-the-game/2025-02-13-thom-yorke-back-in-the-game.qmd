@@ -1,0 +1,13 @@
+---
+title: "back in the game"
+author: "mark pritchard / thom yorke"
+custom-field: "jonathan zawada"
+date: "2025-02-13"
+categories: [midjourney]
+image: "back-in-the-game.jpg"
+---
+
+{{< video https://youtu.be/s4Ta7n_Eyjo >}}
+<br>
+Music: Mark Pritchard, Thom Yorke\
+Visuals: Jonathan Zawada

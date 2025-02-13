@@ -43,16 +43,23 @@ $font-family-sans-serif: "Europa", "Source Sans Pro", "Atkinson Hyperlegible", -
   unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+0304, U+0308, U+0329, U+2000-206F, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
 }
 
+@font-face {
+	font-family: 'redrocketexpandital';
+	src: url('fonts/red_rocket/redrocketexpandital.ttf') format('truetype');
+	font-weight: normal;
+	font-style: normal;
+}
+
 $primary:  #06436e !default;
 $font-family-serif: 'Source Serif Pro', serif !default;
 $font-family-sans-serif: 'Helvetica Neue', sans-serif !default;
-$headings-font-family: 'Orbitron', sans-serif !default;
+$headings-font-family: 'redrocketexpandital', sans-serif !default;
 
 /*-- scss:rules --*/
 
 // litera is serif by default: revert to san-serif
 h1 {
-  font-family: 'Orbitron', sans-serif;
+  font-family: 'redrocketexpandital', sans-serif;
   font-size: 30px;
   color: red;
   letter-spacing: 2px;
@@ -60,7 +67,7 @@ h1 {
 
 h2, h3, h4, h5 {
   font-family: $headings-font-family;
-  font-size: 20px;
+  font-size: 30px;
  }
  
  h6 {
