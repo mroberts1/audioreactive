@@ -1,0 +1,13 @@
+---
+title: "palestrina gabriel"
+author: "max cooper"
+custom-field: "uisato"
+date: "2025-03-15"
+categories: [warpfusion]
+image: "palestrina-gabriel.jpg"
+---
+
+{{< video https://youtu.be/cI7RClc1qYg >}}
+<br>
+Music: [Max Cooper](https://maxcooper.net/)\
+Visuals: [Uisato](https://linktr.ee/uisato?fbclid=PAZXh0bgNhZW0CMTEAAaaYKzWb3NWA-o3Uoh7hHzwEQLClSfcXsLaixovQH3BjWOoQ5H6_eCWtPxw_aem_MY3B6djEBNPun-O-9uRpuw)
