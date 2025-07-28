@@ -1,0 +1,15 @@
+---
+title: "pondeggi"
+author: "yaeji"
+custom-field: "andrew thomas huang"
+date: "2025-07-28"
+categories: [k-pop]
+image: "pondeggi.jpg"
+---
+
+{{< video https://youtu.be/Vi9j9ogqr4E >}}
+<br>
+Music: [Yaeji](https://yaeji.com/)\
+Visuals: [Andew Thomas Huang](https://www.andrewthomashuang.com/)
+
+***
