@@ -4,15 +4,6 @@ project:
 website:
   title: "audioreactive"
   back-to-top-navigation: false
-  navbar:
-    background: transparent
-    right:
-      - text: about
-        href: about.qmd
-      - icon: github
-        href: https://github.com/mroberts1
-      - icon: twitter
-        href: https://twitter.com
 format:
   html:
     backgroundcolor: "#EFEDE5"

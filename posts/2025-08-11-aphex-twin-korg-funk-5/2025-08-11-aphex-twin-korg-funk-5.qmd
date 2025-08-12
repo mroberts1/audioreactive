@@ -1,0 +1,14 @@
+---
+title: "korg funk 5"
+author: "aphex twin"
+custom-field: "charlie denis"
+date: "2025-08-11"
+categories: [video, funk, electronic]
+image: "korg-funk-5.jpg"
+---
+
+{{< video https://youtu.be/CzlMUwhC_Fs >}}
+
+Music: Aphex Twin  
+Dancer: [Nadia Lee Cohen](https://www.academyfilms.com/nadia-lee-cohen)     
+Visuals: Charlie Denis
