@@ -10,7 +10,7 @@ format:
     theme: 
       light: [litera, ember.scss]
       dark: [quartz, ember.scss]
-    css: custom.scss
+    css: [custom.scss, custom-styles.css]
 linestretch: 1.2
 fontsize: 0.9em
 smooth-scroll: true
