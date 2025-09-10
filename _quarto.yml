@@ -4,6 +4,7 @@ project:
 website:
   title: "audioreactive"
   back-to-top-navigation: false
+  
 format:
   html:
     backgroundcolor: "#EFEDE5"
@@ -11,13 +12,15 @@ format:
       light: [litera, ember.scss]
       dark: [quartz, ember.scss]
     css: [custom.scss, custom-styles.css]
-linestretch: 1.2
-fontsize: 0.9em
-smooth-scroll: true
-linkcolor: "#235440"
-link-external-newwindow: true
+    linestretch: 1.2
+    fontsize: 0.9em
+    smooth-scroll: true
+    linkcolor: "#235440"
+    link-external-newwindow: true
+    
 execute:
   freeze: true
+  cache: true
 
 
 
