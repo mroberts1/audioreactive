@@ -1,0 +1,14 @@
+---
+title: "candeleda"
+author: "max cooper & rob clouth"
+custom-field: "brandon eversole"
+date: "2025-09-10"
+categories: [video, electronic, ambient]
+image: "candeleda.jpg"
+---
+
+{{< video https://youtu.be/GRUsPf_0nrY >}}
+<br>
+Music: [Max Cooper](https://maxcooper.net/) & [Rob Clouth](https://robclouth.com/)  
+Visuals: [Brandon Eversole](https://www.brandoneversole.com/)  
+Date (YouTube): 9 September 2025

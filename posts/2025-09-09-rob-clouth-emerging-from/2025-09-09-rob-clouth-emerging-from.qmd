@@ -1,0 +1,14 @@
+---
+title: "emerging from"
+author: "rob clouth"
+custom-field: "rob clouth & archie crofton"
+date: "2025-09-09"
+categories: [video, electronic, ambient]
+image: "emerging.jpg"
+---
+
+{{< video https://youtu.be/5kz3axn9nwY >}}
+<br>
+Music: [Rob Clouth](https://robclouth.com/)  
+Visuals: [Rob Clouth](https://robclouth.com/) & [Archie Crofton](https://archiecrofton.com/)  
+Date (YouTube): 10 September 2025

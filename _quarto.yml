@@ -17,7 +17,7 @@ smooth-scroll: true
 linkcolor: "#235440"
 link-external-newwindow: true
 execute:
-  freeze: auto
+  freeze: true
 
 
 
