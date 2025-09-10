@@ -28,7 +28,7 @@ title-block-banner: false
 
 <h6>audioreactive</h6>
 
-### generative visual music
+### algorithmic visual music
 
 <br>
 
