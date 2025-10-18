@@ -1,0 +1,13 @@
+---
+title: "daydream live"
+author: "emma catnip"
+custom-field: "emma catnip"
+date: "2025-10-18"
+categories: [video, electronic, experimental, streamdiffusion]
+image: "daydream-live.jpg"
+---
+
+{{< video https://youtu.be/rHziSq73N7Q >}}
+<br>
+Music: Unknown artist, "DayDream"
+Visuals: [Emma Catnip](https://linktr.ee/emmacatnip)
