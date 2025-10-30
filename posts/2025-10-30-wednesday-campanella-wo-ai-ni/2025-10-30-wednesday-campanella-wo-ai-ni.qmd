@@ -1,0 +1,13 @@
+---
+title: "wo ai ni"
+author: "wednesday campanella"
+custom-field: "suiyoubi no campanella"
+date: "2025-10-30"
+categories: [music video]
+image: "wo-ai-ni.jpg"
+---
+
+{{< video https://youtu.be/RwRDJkriXU4 >}}
+
+Music: [Wednesday Campanella (水曜日のカンパネラ)](https://www.youtube.com/@SuiyobiNoCampanella)  
+Date (YouTube): 24 September 2025
