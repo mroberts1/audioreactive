@@ -1,0 +1,13 @@
+---
+title: "vera molnar algorithm"
+author: "thedotisblack"
+custom-field: "creative coding tutorial"
+date: "2025-10-30"
+categories: [processing, generative art]
+image: "vera-molnar.jpg"
+---
+
+{{< video https://youtu.be/O5G4SoWBoao >}}
+
+Tutorial: [thedotisblack creative coding](https://www.youtube.com/@thedotisblack)  
+Date (YouTube): 21 March 2020
