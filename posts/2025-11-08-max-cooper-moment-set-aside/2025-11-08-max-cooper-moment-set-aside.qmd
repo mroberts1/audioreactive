@@ -1,0 +1,13 @@
+---
+title: "a moment set aside"
+author: "max cooper/rob clouth"
+custom-field: "dimitri thouzery"
+date: "2025-11-08"
+categories: [music video, electronic]
+image: "moment-set-aside.jpg"
+---
+
+{{< video https://youtu.be/D3MFnCKv2Mc >}}
+
+Music: Max Cooper & Rob Clouth  
+Visuals: Dimitri Thouzery
