@@ -1,0 +1,8 @@
+---
+title: "PLATONIC SPACE"
+author: "uisato"
+date: "2025-12-16"
+categories: [music video]
+---
+
+{{< video https://youtu.be/EgnzgYzVAEA >}}
