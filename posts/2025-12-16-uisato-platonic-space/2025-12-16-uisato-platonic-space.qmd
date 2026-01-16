@@ -1,6 +1,7 @@
 ---
 title: "PLATONIC SPACE"
 author: "uisato"
+custom-field: "uisato"
 date: "2025-12-16"
 categories: [music video]
 image: "platonic-space.jpg"

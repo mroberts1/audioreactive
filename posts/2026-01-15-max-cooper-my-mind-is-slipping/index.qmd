@@ -1,0 +1,17 @@
+---
+title: "my mind is slipping"
+author: "max cooper"
+custom-field: "jean-baptiste friquet"
+date: "2026-01-15"
+categories: [music video]
+tags: [datamoshing]
+image: "mind-is-slipping.jpg"
+---
+
+{{< video https://www.youtube.com/JvLnVidk2mU >}}
+
+Music: Max Cooper  
+Visuals: Jean-Baptiste Friquet
+
+
+

@@ -1,0 +1,8 @@
+---
+title: "Music Video Generator"
+author: "uisato"
+date: "2025-11-12"
+categories: [music video]
+---
+
+{{< video https://youtu.be/FhF1iQ2R2MU >}}

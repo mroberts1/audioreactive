@@ -1,6 +1,6 @@
 ---
 title: "Nearest Neighbour"
-author: "dan hayhurst"
+author: "sculpture"
 date: "2018-08-28"
 custom-field: "reuben sutherland"
 categories: [music video]
