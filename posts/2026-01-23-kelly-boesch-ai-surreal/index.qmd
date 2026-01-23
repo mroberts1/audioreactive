@@ -1,0 +1,15 @@
+---
+title: "ai surreal scenes made with midjourney and veo3"
+author: "kelly boesch"
+custom-field: "kelly boesch"
+date: "2026-01-23"
+categories: [ai art, generative]
+tags: [midjourney, veo3]
+image: "thumbnail.jpg"
+---
+
+{{< video https://youtu.be/Nnd5quTzug0 >}}
+
+AI Art: Kelly Boesch
+
+
