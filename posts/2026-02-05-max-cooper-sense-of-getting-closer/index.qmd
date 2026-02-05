@@ -1,0 +1,14 @@
+---
+title: "A Sense Of Getting Closer"
+author: "max cooper"
+custom-field: "conner griffith"
+date: "2026-02-05"
+categories: [music video, generative]
+tags: [max cooper, conner griffith]
+image: "thumbnail.jpg"
+---
+
+{{< video https://youtu.be/4jaHcz3d85w >}}
+
+Music: Max Cooper  
+Video: Conner Griffith
