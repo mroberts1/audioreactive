@@ -1,0 +1,14 @@
+---
+title: "HELICOPTER"
+author: "a$ap rocky"
+custom-field: "dan streit"
+date: "2026-01-12"
+categories: [music video, generative]
+tags: [a$ap rocky, dan streit, gaussian splatting]
+image: "thumbnail.jpg"
+---
+
+{{< video https://youtu.be/g1-46Nu3HxQ >}}
+
+Music: A\$AP Rocky   
+Video: A\$AP Rocky & Dan Streit
