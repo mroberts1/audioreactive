@@ -1,0 +1,16 @@
+---
+title: "House of Cards"
+author: "radiohead"
+custom-field: "james frost"
+date: "2026-03-25"
+categories: [music video, data visualization]
+tags: [radiohead, thom yorke, james frost, 3d plotting, lidar]
+image: "thumbnail.jpg"
+---
+
+{{< video https://youtu.be/8nTFjVm9sTQ >}}
+
+Music: Radiohead  
+Video: James Frost
+
+In Radiohead's video for 'House of Cards', no cameras or lights were used. Instead, 3D plotting technologies collected information about the shapes and relative distances of objects. The video was created entirely with visualizations of that data.
